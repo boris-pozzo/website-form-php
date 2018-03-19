@@ -10,7 +10,7 @@ L'entreprise **VYBZ** vous a embauché pour la réalisation de son site de réf�
 
 **Techno: php**
 
-Sur ce site on doit pouvoir **ajouter** un événement
+Sur ce site on doit pouvoir **ajouter** un événement dans une base de données (**MySQL**).
 Avec les éléments ci-dessous:
 - Nom de l'événement
 - Date
