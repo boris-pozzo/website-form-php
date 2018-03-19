@@ -4,7 +4,7 @@
 
 ### 1.1. Contexte
 
-L'entreprise **VYBZ** vous a embauché pour la réalisation de son site de référencement d'événements du monde de la musique.
+L'entreprise **VYBZ** vous a embauché pour la réalisation de son site de référencement d'événements musicaux.
 
 ### 1.2. Consignes
 
@@ -13,8 +13,9 @@ L'entreprise **VYBZ** vous a embauché pour la réalisation de son site de réf�
 Sur ce site on doit pouvoir **ajouter** un événement
 Avec les éléments ci-dessous:
 - Nom de l'événement
-- Date de début
-- Date de fin
+- Date
+- Heure de début
+- Heure de fin
 - Image de l'événement
 - Prix du billet
 - Description
