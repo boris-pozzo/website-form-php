@@ -4,7 +4,7 @@
 
 ### 1.1. Contexte
 
-L'entreprise **VYBZ** vous a embauché pour la réalisation de son site de référencement d'événements musicaux.
+L'entreprise **VYBZ** vous a embauché pour la réalisation de son site de référencement d'événements (festivals, concerts, etc...).
 
 ### 1.2. Consignes
 
@@ -23,7 +23,7 @@ Avec les éléments ci-dessous:
 On peut également **voir**, **supprimer** et **modifier** chaque élément (**CRUD**).
 Il y aura donc :
 - Une page d'accueil (libre à vous de designé la page)
-- Une page page par événement 
+- Une page par événement 
 - Une page pour modifier chaque événement
 (Vous pouvez rajouter d'autres éléments si vous le voulez)
 
